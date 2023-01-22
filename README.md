@@ -29,4 +29,4 @@ def gcd():
 ![image](https://user-images.githubusercontent.com/119389139/213917367-ed78497a-2ee1-465f-a3ef-1fedaa045009.png)
 
 ## Result:
-Thus the program to find the GCD of two numbers is written and verified using python programming.
+Thus the program to find the GCD of two numbers is written and verified using python programming
