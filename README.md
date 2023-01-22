@@ -10,6 +10,8 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
+#Develop:Sirisha onteddu
+#ref.no:22003264
 n1=int(input())
 n2=int(input())
 def gcd():
